@@ -69,9 +69,6 @@ The script outputs a table with the evaluation metrics for each model. It also g
 
 For each model, a plot is generated showing actual AQI values versus predicted AQI values, helping to visually assess the model's accuracy.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
